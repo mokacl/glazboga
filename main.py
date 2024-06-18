@@ -6,10 +6,10 @@ import requests
 import json
 
 # Telegram bot token
-API_TOKEN = "___TELEGRAM_API_TOKEN___"
+API_TOKEN = "7480597326:AAFuKBVNtoOIysoGNVckiruqEoyfXa_En9Y"
 
 # ProbivAPI secret key
-PROBIVAPI_KEY = "___PROBIVAPI_TOKEN___"
+PROBIVAPI_KEY = "2e5aa98c-8498-44a9-8a65-39fa4b810fe3"
 
 # Initialize bot and dispatcher
 bot = Bot(token=API_TOKEN)
